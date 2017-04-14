@@ -30,22 +30,22 @@ else
 
 // ** MySQL 設定 - 您可以從主機服務提供商獲取相關資訊。 ** //
 /** WordPress 的資料庫名稱，請更改 "database_name_here" */
-define('DB_NAME', 'database_name_here');
+// define('DB_NAME', 'database_name_here');
 
-/** MySQL 資料庫使用者名稱，請更改 "username_here" */
-define('DB_USER', 'username_here');
+// /** MySQL 資料庫使用者名稱，請更改 "username_here" */
+// define('DB_USER', 'username_here');
 
-/** MySQL 資料庫密碼，請更改 "password_here" */
-define('DB_PASSWORD', 'password_here');
+// /** MySQL 資料庫密碼，請更改 "password_here" */
+// define('DB_PASSWORD', 'password_here');
 
-/** MySQL 主機位址 */
-define('DB_HOST', 'localhost');
+// /** MySQL 主機位址 */
+// define('DB_HOST', 'localhost');
 
-/** 建立資料表時預設的文字編碼 */
-define('DB_CHARSET', 'utf8');
+// /** 建立資料表時預設的文字編碼 */
+// define('DB_CHARSET', 'utf8');
 
-/** 資料庫對照型態。如果不確定請勿更改。 */
-define('DB_COLLATE', 'utf8_unicode_ci');
+// /** 資料庫對照型態。如果不確定請勿更改。 */
+// define('DB_COLLATE', 'utf8_unicode_ci');
 
 /**#@+
  * 認證唯一金鑰設定。
